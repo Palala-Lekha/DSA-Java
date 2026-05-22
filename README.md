@@ -10,6 +10,10 @@ This repository contains Data Structures and Algorithms problems solved in Java.
 - Find Maximum Element
 - Frequency of Elements
 - Rotate Array
+- Sum of Even and Odd Numbers
+- Minimum and Maximum in Merged Array
+- Remove Element
+- Anti Clockwise Rotation
 
 ## Features
 - Clean code
