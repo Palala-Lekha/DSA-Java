@@ -20,6 +20,7 @@ This repository contains Data Structures and Algorithms problems solved in Java.
 - Searching in Arrays
     * Linear Search 
     * Binary Search for Student Name
+    * Find Minimum Temperature
 
 ## Features
 - Clean code
