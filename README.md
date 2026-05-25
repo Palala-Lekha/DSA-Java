@@ -21,6 +21,9 @@ This repository contains Data Structures and Algorithms problems solved in Java.
     * Linear Search 
     * Binary Search for Student Name
     * Find Minimum Temperature
+    * Finding the Highest Sales in Multiple Regions
+    * Find a Toy Using Linear Search
+    * Find Peak Element
 
 ## Features
 - Clean code
